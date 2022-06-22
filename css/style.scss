@@ -1,0 +1,33 @@
+.header{
+    .container2{
+        width: 80%;
+        margin: auto;
+        .menu{
+            ul{
+                li{
+                    a{
+                        color: #343f52;
+                        text-decoration: none;
+                        padding: 15px 20px;
+                        align-items: center;
+                        font-size: 1rem;
+                        margin-top: 20px;
+                        display: block;
+                        font-weight: 600;
+                        font-family: Urbanist,sans-serif;
+                    }
+                }
+            }
+        }
+        .right-menu{
+            i{
+                margin-left: 15px;
+                color: #343f52;
+                font-weight: 600;
+                font-size: 17px;
+            }
+        }
+    }
+
+    
+}
